@@ -1,3 +1,5 @@
+# This is a Python setup script for installing the shap-e package along with its dependencies.
+
 from setuptools import setup
 
 setup(
